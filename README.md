@@ -1,8 +1,8 @@
 
 # Smart Waste Classification System 🚮➡️♻️
 
-![System Architecture](docs/architecture_en.png)
-
+![System Architecture](doc/PixPin_2025-03-22_11-55-55.png)
+![System image](doc/PixPin_2025-03-22_11-56-41.png)
 **An AI-powered Recycling Solution with YOLOv5 and PyTorch**  
 `v2.1 | Academic Project | 2024`
 
