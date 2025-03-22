@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="./README.md">English</a> | 
+  <a href="./README.zh-CN.md">简体中文</a>
+</div>
 # 智能垃圾分类系统 🚮➡️♻️
 
 ![系统架构图](doc/PixPin_2025-03-22_11-55-55.png)
