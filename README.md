@@ -1,8 +1,9 @@
+
+# Smart Waste Classification System 🚮➡️♻️
 <div align="center">
   <a href="./README.md">English</a> | 
   <a href="./README.zh-CN.md">简体中文</a>
 </div>
-# Smart Waste Classification System 🚮➡️♻️
 
 ![System Architecture](doc/PixPin_2025-03-22_11-55-55.png)
 ![System image](doc/PixPin_2025-03-22_11-56-41.png)
