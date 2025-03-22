@@ -1,0 +1,16 @@
+train: D:/000Study_Documents/Project_Practice/Junior_Practice/Practice_xian/yolov5_rubbish/myvocdata/dataSet_path/train.txt
+val: D:/000Study_Documents/Project_Practice/Junior_Practice/Practice_xian/yolov5_rubbish/myvocdata/dataSet_path/val.txt
+
+#_number_of_classes
+nc: 46
+
+#_class_names
+names: ['CaiBang_leaves', 'Courier_bags', 'Disposable_fast_food_box', 'Drink_box', 'Edible_oil_drum',
+        'Expired_drugs', 'Metal_food_can', 'Metal_kitchen_utensils_and_appliances', 'Paper_books',
+        'Peel_the_fruit', 'Plastic_kitchenware', 'Plastic_utensils', 'Plug_wire', 'Stained_paper',
+        'Stained_plastic', 'Tea_leaves', 'bag', 'butt', 'carton_carton', 'ceramic_ware', 'chopsticks',
+        'condiment_bottle', 'cutting_board', 'drink_bottle', 'dry_battery', 'eggshell', 'flowerpot',
+        'glass_ware', 'leftover_food', 'metalware', 'ointment', 'old_clothes', 'pan', 'paper_bag',
+        'pillow', 'plastic_hanger', 'plastic_toy', 'pop_top_can', 'power_bank', 'shoes', 'stuffed_toys',
+        'toothpick', 'towel', 'trash_can', 'wash_supplies', 'winebottle']
+
